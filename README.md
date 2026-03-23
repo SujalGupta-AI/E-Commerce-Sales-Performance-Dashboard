@@ -1,5 +1,7 @@
 # E-Commerce Sales Performance Dashboard
 
+![Main Dashboard Snapshot](Snapshot%20of%20The%20Dashboard.png)
+
 ## Executive Summary
 This project features an E-Commerce Sales Dashboard built using Microsoft Excel to track and analyze annual sales and profitability. By aggregating transactional data and calculating Year-over-Year (YoY) performance (2016 vs. 2017), the dashboard provides a clear view of business growth. Overall, the business saw strong positive momentum, with total sales growing by over 20% and profits increasing by over 14% from 2016 to 2017. The analysis breaks down these high-level metrics across various product sub-categories and geographical regions to uncover specific drivers of growth.
 
